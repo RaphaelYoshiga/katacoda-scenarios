@@ -1,5 +1,3 @@
-# Your first git repository
-
 To initialize a git repository:
 
 `git init`{{execute}}
