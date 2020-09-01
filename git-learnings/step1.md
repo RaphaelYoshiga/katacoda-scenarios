@@ -7,5 +7,8 @@ To see the status of the repository:
 To stage the hello.txt file:
 `git add hello.txt`{{execute}}
 
-To commit the the hello.txt file:
+Check what Git status tells you now:
+`git status`{{execute}}
+
+Commit the the hello.txt file:
 `git commit -m "My first file saved in GIT!"`{{execute}}

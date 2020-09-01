@@ -1,4 +1,7 @@
-Now is time to mess up the hello.txt, you can even delete the file.
+Now delete the "hello.txt" file. 
+Right click on the file > Delete
 
 Now reset the file to the commited version:
 `git reset --hard`{{execute}}
+
+You have now recovered the file.
