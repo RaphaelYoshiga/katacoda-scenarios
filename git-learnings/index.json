@@ -6,7 +6,7 @@
   "details": {
     "assets": {
       "host01": [
-          {"file": "hello.txt", "target": "/home/scrapbook/tutorial/", "chmod": "a+rx"}
+          {"file": "hello.txt", "target": "/usr/local/bin/", "chmod": "a+rx"}
       ]
     },
     "steps": [
