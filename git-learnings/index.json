@@ -11,12 +11,12 @@
     },
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Your first commit",
         "text": "step1.md",
         "code": "foreground.sh"
       },
       {
-        "title": "Step 2",
+        "title": "Proving the source control",
         "text": "step2.md"
       }
     ],
