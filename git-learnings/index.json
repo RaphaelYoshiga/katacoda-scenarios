@@ -28,7 +28,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/etc/git-tutorial"
   },
   "backend": {
     "imageid": "ubuntu"
