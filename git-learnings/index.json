@@ -6,13 +6,14 @@
   "details": {
     "assets": {
       "host01": [
-          {"file": "hello.txt", "target": "/usr/local/bin/", "chmod": "a+rx"}
+          {"file": "hello.txt", "target": "/etc/git-tutorial", "chmod": "a+rx"}
       ]
     },
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "code": "foreground.sh"
       },
       {
         "title": "Step 2",
@@ -27,7 +28,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "ubuntu"
